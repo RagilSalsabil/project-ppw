@@ -11,6 +11,8 @@ from sklearn.metrics import accuracy_score
 from sklearn.decomposition import LatentDirichletAllocation
 from sklearn.neighbors import KNeighborsClassifier
 
+import nltk
+nltk.download('punkt')
 from nltk.tokenize import sent_tokenize
 import string
 import pickle
