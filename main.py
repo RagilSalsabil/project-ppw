@@ -65,7 +65,7 @@ with col3:
     st.write("""
         ### Want to learn more?
         - Dataset (studi kasus) [radarjatim.com](https://radarjatim.id/)
-        - Github Account [github.com](https://github.com/AliGhufron-28/datamaining)
+        - Github Account [github.com](https://github.com/RagilSalsabil?tab=repositories)
         """)
     
     data_final_sm = pd.read_csv('data/data_final_sm.csv')
